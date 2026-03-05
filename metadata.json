@@ -1,0 +1,5 @@
+{
+  "name": "Control de Fichaje - Finca",
+  "description": "Aplicación para el control de asistencia de conserjes con gestión de usuarios y reportes para administradores.",
+  "requestFramePermissions": []
+}
